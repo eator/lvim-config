@@ -1,4 +1,4 @@
-My lunarvim config
+## My lunarvim config
 
 For new environment:
 
