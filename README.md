@@ -1,2 +1,4 @@
 My lunarvim config
-git clone 
+
+For new environment:
+git clone git@github.com:eator/lvim-config.git ~/.config
